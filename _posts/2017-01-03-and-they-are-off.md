@@ -11,3 +11,8 @@ As you may remember, when we planted our seedlings, they looked like this:
 
 Here is their daily progress from the 19th to the 23rd:
 
+![Pea progress: December 19th]({{site.baseurl}}/images/20161219_094729.jpg)
+![Pea progress: December 20th]({{site.baseurl}}/images/20161220_073600.jpg)
+![Pea progress: December 21st]({{site.baseurl}}/images/20161221_074716.jpg)
+![Pea progress: December 22nd]({{site.baseurl}}/images/20161222_141725.jpg)
+![Pea progress: December 23rd]({{site.baseurl}}/images/20161223_110556.jpg)
